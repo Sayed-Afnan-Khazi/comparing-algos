@@ -14,6 +14,8 @@ google-pasta==0.2.0
 grpcio==1.64.0
 h5py==3.11.0
 idna==3.7
+imbalanced-learn==0.12.3
+imblearn==0.0
 ipykernel==6.29.4
 ipython==8.24.0
 jedi==0.19.1
